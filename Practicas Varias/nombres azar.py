@@ -1,6 +1,6 @@
 import random
 
-Nombres_de_niño = ["Aarón", "Abdul",  "Abel",  "Abelardo",  "Abraham", "Adam"]
+Nombres_de_niño = ["Aarón", "Abdul",  "Abel",  "Abelardo",  "Abraham", "Adam","Manuel", "Moises", "Edgard"]
 
 apellidos= ["Hidalgo", "Hurrieta", "Smith", "Lopez", "Polo", "Leon"]
 
